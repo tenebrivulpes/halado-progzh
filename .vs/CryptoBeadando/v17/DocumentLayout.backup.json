@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|c:\\users\\tenebri\\desktop\\crypto beadando mintazh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|c:\\users\\tenebri\\desktop\\crypto beadando mintazh\\services\\limitorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|solutionrelative:services\\limitorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|c:\\users\\tenebri\\desktop\\crypto beadando mintazh\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|solutionrelative:controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|c:\\users\\tenebri\\desktop\\crypto beadando mintazh\\services\\currencyrateupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|solutionrelative:services\\currencyrateupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|c:\\users\\tenebri\\desktop\\crypto beadando mintazh\\models\\cryptodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|solutionrelative:models\\cryptodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|c:\\users\\tenebri\\desktop\\crypto beadando mintazh\\models\\walletentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|solutionrelative:models\\walletentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|c:\\users\\tenebri\\desktop\\crypto beadando mintazh\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4F0855-0D0B-4D2D-ABD2-027A767C0B42}|CryptoBeadando.csproj|solutionrelative:models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:59:14.871Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Models\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Models\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Models\\DbInitializer.cs",
+              "RelativeToolTip": "Models\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:58:26.729Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WalletEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Models\\WalletEntity.cs",
+              "RelativeDocumentMoniker": "Models\\WalletEntity.cs",
+              "ToolTip": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Models\\WalletEntity.cs",
+              "RelativeToolTip": "Models\\WalletEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:59:54.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TradeController.cs",
+              "ToolTip": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "Controllers\\TradeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwJUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:51:35.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LimitOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Services\\LimitOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\LimitOrderService.cs",
+              "ToolTip": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Services\\LimitOrderService.cs",
+              "RelativeToolTip": "Services\\LimitOrderService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEsAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:12:33.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrencyRateUpdaterService.cs",
+              "DocumentMoniker": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Services\\CurrencyRateUpdaterService.cs",
+              "RelativeDocumentMoniker": "Services\\CurrencyRateUpdaterService.cs",
+              "ToolTip": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Services\\CurrencyRateUpdaterService.cs",
+              "RelativeToolTip": "Services\\CurrencyRateUpdaterService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:12:43.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CryptoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Models\\CryptoDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\CryptoDbContext.cs",
+              "ToolTip": "C:\\Users\\Tenebri\\Desktop\\Crypto Beadando MintaZH\\Models\\CryptoDbContext.cs",
+              "RelativeToolTip": "Models\\CryptoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:46:13.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
